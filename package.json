@@ -15,7 +15,7 @@
         "laravel-nova": "^1.0"
     },
     "dependencies": {
-        "vue": "^2.5.0",
-        "vue-the-mask": "^0.11.1"
+        "inputmask": "^4.0.6",
+        "vue": "^2.5.0"
     }
 }

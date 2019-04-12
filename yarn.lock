@@ -4084,6 +4084,11 @@ ini@^1.3.4, ini@~1.3.0:
   resolved "https://registry.yarnpkg.com/ini/-/ini-1.3.5.tgz#eee25f56db1c9ec6085e0c22778083f596abf927"
   integrity sha512-RZY5huIKCMRWDUqZlEi72f/lmXKMvuszcMBduliQ3nnWbx9X/ZBQO7DijMEYS9EhHBb2qacRUMtC7svLwe0lcw==
 
+inputmask@^4.0.6:
+  version "4.0.6"
+  resolved "https://registry.yarnpkg.com/inputmask/-/inputmask-4.0.6.tgz#ee8f9478ed4c06b38116e8d0ed55a5798b73bcb6"
+  integrity sha512-zHw2jO1RSTU/aoKjsVsBQF56m3SYA3IEsIZmb6anvoUBlPRMgXtKWtj/Pux7o/O8JNikGLLRN6LGBISzHRlabw==
+
 internal-ip@1.2.0:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/internal-ip/-/internal-ip-1.2.0.tgz#ae9fbf93b984878785d50a8de1b356956058cf5c"
@@ -8304,11 +8309,6 @@ vue-template-es2015-compiler@^1.6.0:
   version "1.9.1"
   resolved "https://registry.yarnpkg.com/vue-template-es2015-compiler/-/vue-template-es2015-compiler-1.9.1.tgz#1ee3bc9a16ecbf5118be334bb15f9c46f82f5825"
   integrity sha512-4gDntzrifFnCEvyoO8PqyJDmguXgVPxKiIxrBKjIowvL9l+N66196+72XVYR8BBf1Uv1Fgt3bGevJ+sEmxfZzw==
-
-vue-the-mask@^0.11.1:
-  version "0.11.1"
-  resolved "https://registry.yarnpkg.com/vue-the-mask/-/vue-the-mask-0.11.1.tgz#91ee01008354ae57bccc79bb61b65f32d971d9d5"
-  integrity sha512-UquSfnSWejD0zAfcD+3jJ1chUAkOAyoxya9Lxh9acCRtrlmGcAIvd0cQYraWqKenbuZJUdum+S174atv2AuEHQ==
 
 vue@^2.5.0:
   version "2.6.10"
